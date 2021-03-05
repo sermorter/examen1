@@ -1,1 +1,0 @@
-texto docu1.txt
